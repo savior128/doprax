@@ -1,5 +1,5 @@
  services:
-  doprax:
+  worker:
     image: dockerfile
     restart: on-failure
     
