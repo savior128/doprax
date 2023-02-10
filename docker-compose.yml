@@ -1,6 +1,6 @@
  services:
-  dockerfile:
-    image: entrypoint.sh
+  doprax:
+    image: dockerfile
     restart: on-failure
     
   nginx:
