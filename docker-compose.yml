@@ -1,6 +1,6 @@
  services:
   dockerfile:
-    image: dockerfile
+    image: Dockerfile
     restart: on-failure
     
   nginx:
