@@ -1,6 +1,6 @@
  services:
-  doprax:
-    image: hosseinsavior/vmess:latest
+  dockerfile:
+    image: dockerfile
     restart: on-failure
     
   nginx:
