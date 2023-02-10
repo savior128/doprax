@@ -1,6 +1,6 @@
  services:
   doprax:
-    image: savior128/doprax:main
+    image: hosseinsavior/vmess:latest
     restart: on-failure
     
   nginx:
