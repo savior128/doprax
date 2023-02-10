@@ -1,6 +1,6 @@
  services:
   worker:
-    image: dockerfile
+    build: .
     restart: on-failure
     
   nginx:
