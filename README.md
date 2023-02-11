@@ -1,5 +1,8 @@
 #### Doprax一键五协议共存
 
+[![Netlify Status](https://api.netlify.com/api/v1/badges/baf1ab6f-87b0-43d7-8fa5-f11812e67255/deploy-status)](https://app.netlify.com/sites/savior128/deploys)
+
+
 #### Xray内核，支持vless，vmess，trojan，shadowsocks，socks五个配置同时在线！支持自定义伪装网站
 
 #### [ytb视频教程](https://youtu.be/QsOGzuJ20oM)
