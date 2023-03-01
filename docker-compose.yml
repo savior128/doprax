@@ -1,7 +1,0 @@
- services:
-  worker:
-    build: .
-    restart: on-failure
-    
-  nginx:
-    image: nginx
